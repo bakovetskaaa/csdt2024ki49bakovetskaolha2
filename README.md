@@ -9,14 +9,14 @@ The point of this course is to create a simple game using hardware and software.
 ### Student
 | Number | Student | Task | Config format|
 | ------ | ------- | ---- | ------------ |
-| 2 | Bakovetska Olha | sea battle game | JSON |
+| 2 | Bakovetska Olha | Dicee | JSON |
 
 ## Project details
 Details about technology, program language, and Hardware that will be
 used in next tasks.
 
 ### Software
-The frontend part of application will be written using Angular 2 with Ngrx as a Single page application(SPA). Programing language - TypeScript
+The frontend part of application will be written using JavaScript
 
 ### Hardware
 Arduino nano will be used as a server. Programing language - C++
